@@ -1,0 +1,158 @@
+{
+  "coffee-cup-campaign": [
+    {
+      "src": "assets/projects/coffee-cup-campaign-01.webp",
+      "alt": "Installation visual"
+    },
+    {
+      "src": "assets/projects/coffee-cup-campaign-02.webp",
+      "alt": "Cup sculpture concept"
+    },
+    {
+      "src": "assets/projects/coffee-cup-campaign-03.webp",
+      "alt": "Cup display render"
+    },
+    {
+      "src": "assets/projects/coffee-cup-campaign-04.webp",
+      "alt": "Build process"
+    },
+    {
+      "src": "assets/projects/coffee-cup-campaign-05.webp",
+      "alt": "City installation campaign"
+    }
+  ],
+  "lsif-immersive-learning": [
+    {
+      "src": "assets/projects/lsif-immersive-learning-01.webp",
+      "alt": "Bexhill immersive classroom"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-02.webp",
+      "alt": "Bhasvic immersive event"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-03.webp",
+      "alt": "Future skills learning room"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-04.webp",
+      "alt": "Bodyswaps soft-skills session"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-05.webp",
+      "alt": "Bodyswaps simulation room"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-06.webp",
+      "alt": "Festival of Innovation panel"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-07.webp",
+      "alt": "Festival of Innovation audience"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-08.webp",
+      "alt": "T Level future-skills space"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-09.webp",
+      "alt": "VR/XR presentation"
+    },
+    {
+      "src": "assets/projects/lsif-immersive-learning-10.webp",
+      "alt": "Immersive simulation in use"
+    }
+  ],
+  "phileas-fogg-world-of-adventures": [
+    {
+      "src": "assets/projects/phileas-fogg-world-of-adventures-01.webp",
+      "alt": "Immersive passage"
+    },
+    {
+      "src": "assets/projects/phileas-fogg-world-of-adventures-02.webp",
+      "alt": "Set build in progress"
+    },
+    {
+      "src": "assets/projects/phileas-fogg-world-of-adventures-03.webp",
+      "alt": "Themed interior"
+    },
+    {
+      "src": "assets/projects/phileas-fogg-world-of-adventures-04.webp",
+      "alt": "Immersive environment"
+    },
+    {
+      "src": "assets/projects/phileas-fogg-world-of-adventures-05.webp",
+      "alt": "Production and set detail"
+    }
+  ],
+  "spatial-design-3d": [
+    {
+      "src": "assets/projects/spatial-design-3d-01.webp",
+      "alt": "Interior space visualisation"
+    },
+    {
+      "src": "assets/projects/spatial-design-3d-02.webp",
+      "alt": "Residential development visualisation"
+    }
+  ],
+  "bim-building-model": [
+    {
+      "src": "assets/projects/bim-building-model-01.webp",
+      "alt": "Large-scale BIM model"
+    }
+  ],
+  "architectural-visualisation": [
+    {
+      "src": "assets/projects/architectural-visualisation-01.webp",
+      "alt": "Bennet residential render"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-02.webp",
+      "alt": "Boat deck visualisation"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-03.webp",
+      "alt": "West Sussex boathouse"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-04.webp",
+      "alt": "Claytons Farm"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-05.webp",
+      "alt": "Coniston interior"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-06.webp",
+      "alt": "Franklins residential render"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-07.webp",
+      "alt": "Guitar shop interior"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-08.webp",
+      "alt": "Horsgate residential render"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-09.webp",
+      "alt": "Linden residential render"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-10.webp",
+      "alt": "London Road extension"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-11.webp",
+      "alt": "Madeline Road extension"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-12.webp",
+      "alt": "Patchings Barn"
+    },
+    {
+      "src": "assets/projects/architectural-visualisation-13.webp",
+      "alt": "Uckfield Rugby Club"
+    }
+  ]
+}
